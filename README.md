@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Moto-Maqlab-UC3M/Moto-Maqlab-UC3M/main/profile/img/DSC01400.JPG" width="100%" alt="MOTO-MAQ-LAB-UC3M Banner" />
+  <img src="https://raw.githubusercontent.com/jesusgalan8/moto_maqlab_web_prueba/main/fotos/fondo.JPG" width="100%" style="object-fit: cover; height: 300px;" alt="MOTO-MAQ-LAB-UC3M Banner" />
   
   <br/><br/>
 
@@ -35,6 +35,7 @@
 <br/>
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+
 <table border="0" width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
@@ -46,7 +47,6 @@
         <img src="https://img.shields.io/badge/Sensors-Telemetry-FF6F00?style=flat-square&logo=espressif&logoColor=white" />
       </div>
     </td>
-    
     <td width="33%" valign="top" align="center">
       <h3>📊 Data & Web</h3>
       <p><i>Análisis y Visualización</i></p>
@@ -56,7 +56,6 @@
         <img src="https://img.shields.io/badge/MatLab-Simulation-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
       </div>
     </td>
-
     <td width="33%" valign="top" align="center">
       <h3>⚙️ Design & CAD</h3>
       <p><i>Hardware y Mecánica</i></p>
@@ -73,13 +72,8 @@
 <hr/>
 <br/>
 
-<h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center">📈 Actividad en GitHub</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moto-Maqlab-UC3M&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moto-Maqlab-UC3M&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moto-Maqlab-UC3M&label=Profile%20Views&color=red&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusgalan8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusgalan8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages" />
 </div>
